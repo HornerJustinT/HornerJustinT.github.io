@@ -8,6 +8,10 @@ ul {
 li {
     display: inline;
     font-size: 25px;
-    padding: 20px;
+    padding: 8px;
     
+}
+.two_align {
+    display: flex;
+  justify-content: space-between;
 }
