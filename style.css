@@ -5,5 +5,10 @@ hr {
   margin-left: auto;
   margin-right: auto;
   border-style: inset;
-  border-width: 10px;
+  border-width: 1px;
+  
+}
+hr.new5 {
+  border: 10px solid black;
+  border-radius: 5px;
 }
