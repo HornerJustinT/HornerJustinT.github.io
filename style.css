@@ -1,4 +1,13 @@
-
 hr.style1{
   border-top: 2px solid black;
+}
+ul {
+    display: inline-block;
+    list-style-type: none;
+}
+li {
+    display: inline;
+    font-size: 25px;
+    padding: 20px;
+    
 }
