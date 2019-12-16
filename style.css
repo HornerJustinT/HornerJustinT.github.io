@@ -24,6 +24,9 @@ li.bar {
 .pad p{
   padding: 4px;
 }
+.pad h4{
+  padding: 4px;
+}
 .grad {
   background-image: linear-gradient(to bottom, rgba(0, 100, 255, 0), rgba(0, 100, 255, 0.25));
 }
