@@ -18,3 +18,12 @@ li.bar {
   display: flex;
   justify-content: space-between;
 }
+.pad h1{
+  padding: 4px;
+}
+.pad p{
+  padding: 4px;
+}
+.pad li{
+  padding: 4px;
+}
